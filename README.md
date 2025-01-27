@@ -92,8 +92,8 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 We thank the following contributors for their support:
 
-- **[Akshada Devkar](https://github.com/AkshadDev)** - Project Creator & Developer
-- **[Siddhesh Mahajan](https://github.com/sidmahajan47)** - [Fixed Bugs]
+- **[Siddhesh Mahajan](https://github.com/AkshadaDev)** - [Linkdln]
+- **[@sidmhajan47](https://github.com/sidmahajan47)** - [Github]
 
 Want to contribute? Fork the repository and join the project!
 
