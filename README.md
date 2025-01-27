@@ -3,6 +3,9 @@
 FocusFlow is a sleek and modern task management application with a built-in Pomodoro timer to boost productivity. Designed with a responsive UI and dynamic theme toggling, it provides a seamless experience for users who want to stay organized and manage their focus effectively.
 
 ---
+## 🥃 Snapshot
+
+---
 
 ## 🌟 Features
 
@@ -52,34 +55,14 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox, or Edg
 
 ---
 
-## 🖼️ Screenshots
+ ## 📱 Contact
 
-### Light Mode:
-![Light Mode](https://via.placeholder.com/800x400.png?text=Light+Mode+Screenshot)
+If you have any questions, suggestions, or feedback, feel free to reach out:
 
-### Dark Mode:
-![Dark Mode](https://via.placeholder.com/800x400.png?text=Dark+Mode+Screenshot)
-
----
-
-## 📂 File Structure
-
-```
-FocusFlow/
-├── index.html      # Main HTML file
-├── styles.css      # Styling with CSS Variables
-├── README.md       # Project Documentation
-└── assets/         # Additional resources (if any)
-```
-
----
-
-## ✨ Future Enhancements
-
-- Add notifications for Pomodoro sessions.
-- Include advanced task filtering and sorting options.
-- Develop a progress analytics dashboard.
-
+- **Email**: [akshadadevkar8@gmail.com](mailto:akshadadevkar8@gmail.com)
+- **GitHub**: [AkshadaDev](https://github.com/AkshadaDev)
+- **LinkedIn**: [Akshada Devkar](www.linkedin.com/in/akshadadevkar)
+  
 ---
 
 ## 🤝 Contributing
