@@ -72,7 +72,7 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 
 We thank the following contributors for their support:
 
-- **[Siddhesh Mahajan](https://github.com/AkshadaDev)** - [Linkdln]
+- **[Siddhesh Mahajan](https://www.linkedin.com/in/siddheshmahajan47/)** - [Linkdln]
 - **[@sidmhajan47](https://github.com/sidmahajan47)** - [Github]
 
 Want to contribute? Fork the repository and join the project!
