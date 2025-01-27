@@ -65,12 +65,6 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
   
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any feature enhancements or bug fixes.
-
----
-
 ## 👥 Contributors
 
 We thank the following contributors for their support:
