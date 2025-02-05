@@ -5,7 +5,7 @@ FocusFlow is a sleek and modern task management application with a built-in Pomo
 ---
 ## 🥃 Snapshot
 
-![2025-01-2719-48-12-ezgif com-crop](https://github.com/user-attachments/assets/2b678fb8-8025-4751-8aff-b2a22c4de0f6)
+![2025-01-3120-14-50-ezgif com-crop](https://github.com/user-attachments/assets/c4310686-47b3-47e7-b5c7-ea3e01d5be28)
 
 
 ---
